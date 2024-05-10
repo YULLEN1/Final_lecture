@@ -31,7 +31,7 @@
 ![img_2.png](img_2.png)
 
 **Перечень автоматизируемых сценариев**
-1. Ввод в форму валидных данных shouldAuthIfFieldsAreFilledCorrectly;
+1. Ввод в форму валидных данных shouldAuthIfFieldsAreFilledCorrectly; <br>
 *Пример теста*  <br>
     1.1 Открыть сайт https://netology.ru/. <br>
     *Ожидаемый результат:* Открывается главная страница сайта. <br>
